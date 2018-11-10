@@ -13,20 +13,7 @@ function setup() {
     frameRate(30);
 }
 function draw() {
-    // if(millis() > last_event + limite_timer){
-    //     console.log("ok")
-    //     last_event = millis();
-    //
-    //     if(bool_color){
-    //         stroke('#000000');
-    //         bool_color = false;
-    //     }else{
-    //         stroke('#E30A17');
-    //         bool_color = true;
-    //     }
-    // }
-    // fill(255, 0);
+
     if(mouseX != 0 && mouseY !=0)
-        // ellipse( mouseX, mouseY, 200, 200);
             image(img, mouseX, mouseY);
       }
