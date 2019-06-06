@@ -134,3 +134,7 @@ p a{
 p a:visited {
   color: magenta;
 }
+
+address a{
+  color: magenta;
+}
