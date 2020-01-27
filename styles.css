@@ -115,6 +115,11 @@ article
   text-align: justify;
 }
 
+.fffMerchImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 p
 {
