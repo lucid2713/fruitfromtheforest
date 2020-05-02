@@ -143,3 +143,9 @@ p a:visited {
 address a{
   color: magenta;
 }
+
+@media screen and (max-width: 815px){
+  .content img{
+    width: 100%;
+  }
+}

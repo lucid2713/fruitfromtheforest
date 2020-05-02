@@ -287,7 +287,16 @@ address a{
 } */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 815px) {
+  .jContens{
+    width: 98%;
+  }
+  .jSection1, .jSection2, .jSection3, .jSection4{
+    width: 90%;
+  }
+  .artwork{
+    width: 90%;
+  }
 
 
 }
